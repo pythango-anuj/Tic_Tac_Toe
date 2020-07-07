@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## A React Project
+This is a React project which is a Tic_Tac_Toe Game. It is a Tutorial Project made during learning of React.js(One Page Application). 
 
 ## Available Scripts
 
